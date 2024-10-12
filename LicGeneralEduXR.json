@@ -5,19 +5,19 @@
       "NameUser": "103cb6",
       "Email": "Master",
       "TypeLicence": "103cb6",
-      "TypeSubscription": "103cb6"
+      "TypeSubscription": "Advanced"
     },
     {
       "NameUser": "7f5127",
       "Email": "Gaaradima Garden",
       "TypeLicence": "226531",
-      "TypeSubscription": "103cb6"
+      "TypeSubscription": "Basic"
     },
     {
       "NameUser": "666ee8",
       "Email": "Morde Camilo",
       "TypeLicence": "226531",
-      "TypeSubscription": "103cb6"
+      "TypeSubscription": "Basic"
     }
   ]
 }
